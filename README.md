@@ -8,7 +8,7 @@
 
    📫 How to reach me **alexcalvillosalas@gmail.com**
 
- <img align="left" height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  /> <br>
+ <img align="left" height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  /> <br><br><br><br>
 
 
 ## 🌐 Socials:
