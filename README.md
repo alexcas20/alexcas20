@@ -11,6 +11,7 @@
 ###
 
 <div align="center">
+ <h3 align="left">Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -35,17 +36,21 @@
 ###
 
 <br clear="both">
-
-<img align="left" height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  />
+<div align="center">
+ <img align="left" height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  />
 
 ###
 
 <div align="left">
+ <h3 align="left">Connect with me:</h3>
   <a href="www.linkedin.com/in/jorge-calvillo-salas-29032523b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcas20&show_icons=true&locale=en&layout=compact" alt="alexcas20" /></p>
+</div>
+
+
 
 ###
