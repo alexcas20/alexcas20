@@ -1,16 +1,14 @@
-# 💫 About Me:
-
 <h1 align="center">Hi 👋, I'm Jorge Calvillo</h1>
 <h3 align="center">A passionate Junior Developer from Mexico with the goal of will be a Full Stack.</h3>
 
-
+# 💫 About Me:
    🔭 I’m currently working on [Jacs Tech](https://github.com/alexcas20/jacs-tech)
 
    🌱 I’m currently learning **SpringBoot, React**
 
    📫 How to reach me **alexcalvillosalas@gmail.com**
 
- <img align="left" height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  />
+ <img align="left" height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  /> <br>
 
 
 ## 🌐 Socials:
