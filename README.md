@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexcas20" alt="alexcas20" /></a> </p>
 
-- 🔭 I’m currently working on [Rick-Morty-App](https://github.com/alexcas20/Rick-Morty-App)
+- 🔭 I’m currently working on [Rick-Morty-App](https://github.com/alexcas20/jacs-tech)
 
 - 🌱 I’m currently learning **SpringBoot, React**
 
