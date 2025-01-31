@@ -1,5 +1,8 @@
 # 💫 About Me:
 
+<h1 align="center">Hi 👋, I'm Jorge Calvillo</h1>
+<h3 align="center">A passionate Junior Developer from Mexico with the goal of will be a Full Stack.</h3>
+
    🔭 I’m currently working on [Jacs Tech](https://github.com/alexcas20/jacs-tech)
 
    🌱 I’m currently learning **SpringBoot, React**
@@ -21,7 +24,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=alexcas20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="display: flex; justify-content: center;">
+   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alexcas20&icon=2&color=10)](https://visitcount.itsvg.in)
